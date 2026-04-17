@@ -39,6 +39,12 @@ CSL7110_Project/
 
 ---
 
+## System Architecture
+
+![System Architecture Diagram](figures/architecture_diagram.png)
+
+---
+
 ## Algorithm Design
 
 ### A-Priori on Spark RDD
